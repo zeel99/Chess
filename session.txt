@@ -1,0 +1,7 @@
+setup_chess(K,1,1)
+setup_chess(P,4,4)
+start_game
+reset_game
+undo
+setup_chess(K,1,1)
+undo
